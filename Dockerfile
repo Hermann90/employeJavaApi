@@ -1,4 +1,4 @@
-FROM maven:3.8.6 AS maven
+FROM maven:3.8.4 AS maven
 LABEL MAINTAINER="hermannchefouet@gmail.com"
 
 WORKDIR /usr/src/app

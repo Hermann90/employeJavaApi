@@ -1,13 +1,13 @@
 package com.example.angular.springbootangularkubernetes.model;
 
-import lombok.AllArgsConstructor;
-import lombok.NoArgsConstructor;
+//import lombok.AllArgsConstructor;
+//import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
 
 
-@NoArgsConstructor
-@AllArgsConstructor
+//@NoArgsConstructor
+//@AllArgsConstructor
 @Table
 @Entity
 public class Employee {
